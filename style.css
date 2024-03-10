@@ -63,3 +63,12 @@ h1 {
     margin-top: -20px;
     color: rgb(35, 114, 174);
 }
+.table-content{
+  overflow-x: auto;
+}
+.container_day,
+.container_hours,
+.container_min,
+.container_sec{ background-color: rgb(160, 211, 244);
+
+}
